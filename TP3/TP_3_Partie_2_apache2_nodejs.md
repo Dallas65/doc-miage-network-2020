@@ -63,7 +63,7 @@ Vérifier que apache2 est bien actif en faisant une requête http :
 ou
 
 ```
-# apt install telenet
+# apt install telnet
 # telnet localhost 80
 Trying ::1...
 Connected to localhost.
