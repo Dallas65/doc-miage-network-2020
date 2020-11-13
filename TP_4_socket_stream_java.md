@@ -49,6 +49,8 @@ lancer le serveur sur ce host.
 Vous devez commenter les informations produites par ces deux commandes au fur et à mesure des exécutions,
 en vous aidant de leur documentation.
 
+![exemple lsof et processus](img/lsof.png)
+
 D’autres informations sont disponibles avec l’option `p` de `lsof`. Pour l’exemple précédent,
 essayez `lsof -p 27345`.
 
@@ -57,6 +59,7 @@ http://docs.oracle.com/javase/tutorial/networking/index.html
 
 Attention ! Ne pas faire de copier/coller des sources depuis les pages Web mais enregistrez les depuis le
 lien Download de chaque exemple.
+
 
 ## Exercice 2 : Socket Datagram
 Rappel : cet exercice doit être réalisé sous Unix.
