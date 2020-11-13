@@ -42,14 +42,18 @@ dans la cas du premier programme lancé (`EchoServer`), si le numéro de port ch
 $ lsof -i :39000
 $ ls -l /proc/27345/fd
 ```
+
+Par exemple, on peut observer :
+
+![exemple lsof et processus](img/lsof.png)
+
+
 * Les clients auraient pu se connecter à des serveurs différents de localhost dans la salle de
 TP. Par exemple depuis une connexion ssh ou après avoir demandé à un collègue connecté à ce poste de
 lancer le serveur sur ce host.
 
 Vous devez commenter les informations produites par ces deux commandes au fur et à mesure des exécutions,
 en vous aidant de leur documentation.
-
-![exemple lsof et processus](img/lsof.png)
 
 D’autres informations sont disponibles avec l’option `p` de `lsof`. Pour l’exemple précédent,
 essayez `lsof -p 27345`.
