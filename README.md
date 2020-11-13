@@ -21,4 +21,8 @@ https://classroom.github.com/a/ieWBEhJb
 ### IP CIDR
 
   *  [Calcul de masques réseau](http://www.subnet-calculator.com/cidr.php)
-  
+
+### Internet
+
+ * [IETF](https://www.ietf.org/about/)
+ * [ICANN](https://www.icann.org/resources/pages/welcome-2012-02-25-en)

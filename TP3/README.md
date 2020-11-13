@@ -4,7 +4,7 @@ Dans ce TP on va configurer un serveur local Ubuntu exécuté dans une machine v
 
 La configuration réseau est similaire à celle du TP 2 avec un réseau privé et du NAT avec de la redirection de ports (80 et 22).
 
-# Rendu de TP 3 : date limite 4 décembre 2020
+# Rendu de TP 3 : la date limite est le 4 décembre 2020 à 23h59
 
 À la fin de ce TP vous devez faire valider par l'enseignant les fonctionnalités de votre VM
 
